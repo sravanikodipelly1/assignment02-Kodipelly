@@ -13,5 +13,8 @@ it has good sculptures and monuments collected by the kakatiya dynasty and it ha
      2. Bus
      3. car
 2. But this travelling includes cheapest and quickest sources.
+* carry the weather appropriate clothes
+- carry the necessary electronics
+- music system
 
     
