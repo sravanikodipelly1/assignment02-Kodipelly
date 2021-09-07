@@ -17,4 +17,6 @@ it has good sculptures and monuments collected by the kakatiya dynasty and it ha
 - carry the necessary electronics
 - music system
 
+[AboutMe](https://github.com/sravanikodipelly1/assignment02-Kodipelly/blob/main/AboutMe.md)
+
     
