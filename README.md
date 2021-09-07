@@ -6,8 +6,12 @@ it has good sculptures and monuments collected by the kakatiya dynasty and it ha
 **student at nwmsu**
 **web apps**
 
----
+--- 
 # Directions to chicago
-1. starting from the maryville journey can be done using both road ways and airways.
-2. roadways
-    >> 1. we can travel by our own transport or use the public transport services
+1. starting from the maryville there are 3 ways to travel from maryville to chicago.
+     1. flight
+     2. Bus
+     3. car
+2. But this travelling includes cheapest and quickest sources.
+
+    
