@@ -31,4 +31,13 @@ it has good sculptures and monuments collected by the kakatiya dynasty and it ha
  |   3. |  nuggets      |einstein bros |$3.02|
  |   4. |chicken burger | Zen          |$4.45|
 
+---
+### Quotes
+> The only thing we have to fear is fear itself
+
+> The way to get started is to quit talking and begin doing
+
+> *Sravani Kodipelly*
+
+
     
