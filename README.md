@@ -38,6 +38,21 @@ it has good sculptures and monuments collected by the kakatiya dynasty and it ha
 > The way to get started is to quit talking and begin doing
 
 > *Sravani Kodipelly*
+---
+### code fencing
+> Combinatorics is a branch of mathematics which is about counting – and we will discover many exciting examples of “things” you can count.
+[Definition link](https://mathigon.org/world/Combinatorics)
+```
+const int maxn = ...;
+int C[maxn + 1][maxn + 1];
+C[0][0] = 1;
+for (int n = 1; n <= maxn; ++n) {
+    C[n][0] = C[n][n] = 1;
+    for (int k = 1; k < n; ++k)
+        C[n][k] = C[n - 1][k - 1] + C[n - 1][k];
+}
+```
+[The is from the link](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)
 
 
     
